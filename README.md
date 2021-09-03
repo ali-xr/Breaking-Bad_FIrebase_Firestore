@@ -1,6 +1,6 @@
-# Breaking-Bad App
+# Breaking-Bad App in Firebase
 
-Breaking-Bad App Flutter project.
+Breaking-Bad App Flutter project in Firebase.
 
 # Project Photos
 <a href="https://ibb.co/BNZZDCt"><img src="https://i.ibb.co/q5ssGrd/Screenshot-20210903-152303.jpg" alt="Screenshot-20210903-152303" border="0" width="120"></a>
