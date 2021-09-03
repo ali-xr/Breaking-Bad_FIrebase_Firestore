@@ -20,4 +20,4 @@ Breaking-Bad App Flutter project.
  flutter_spinkit: ^5.0.0 <br/>
  animated_text_kit: ^4.2.1 <br/>
  
-# [Click here to download the app](https://github.com/AlijonXr/Chat-App/raw/main/app-armeabi-v7a-release.apk) 
+# [Click here to download the app](https://github.com/AlijonXr/Breaking-Bad/raw/main/app-armeabi-v7a-release.apk) 
